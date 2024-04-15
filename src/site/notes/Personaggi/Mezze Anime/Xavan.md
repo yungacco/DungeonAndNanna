@@ -11,4 +11,4 @@
 
 Anima malvagia di [[Personaggi/Balordor\|Balordor]]   Vedi "[[Eventi & Info/Mezze Anime\|Mezze Anime]]"
 
-Per esiliarlo abbiamo bisogno di un [[Medaglione\|Medaglione]] che si trova o infondo a [[Città & Luoghi/Buco profondo\|Buco profondo]] oppure nei sotterranei di [[Città & Luoghi/Oxgate\|Oxgate]]
+Per esiliarlo abbiamo bisogno di un [[Image/Medaglione\|Medaglione]] che si trova o infondo a [[Città & Luoghi/Buco profondo\|Buco profondo]] oppure nei sotterranei di [[Città & Luoghi/Oxgate\|Oxgate]]
