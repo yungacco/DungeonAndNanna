@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/npc/teschio-1/"}
+{"dg-publish":true,"permalink":"/personaggi/npc/teschio-1/","dgPassFrontmatter":true}
 ---
 
 
