@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/dnd-campagna/","tags":["gardenEntry"]}
+{"dg-home":true,"dg-publish":true,"permalink":"/dnd-campagna/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 # <b>SESSIONI </b>
