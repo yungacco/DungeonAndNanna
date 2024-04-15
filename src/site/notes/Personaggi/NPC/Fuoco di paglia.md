@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/npc/fuoco-di-paglia/"}
+{"dg-publish":true,"permalink":"/personaggi/npc/fuoco-di-paglia/","dgPassFrontmatter":true}
 ---
 
 **Nome:** ???
