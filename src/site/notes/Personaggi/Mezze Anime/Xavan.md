@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/mezze-anime/xavan/"}
+{"dg-publish":true,"permalink":"/personaggi/mezze-anime/xavan/","dgPassFrontmatter":true}
 ---
 
 **Nome:** ???
