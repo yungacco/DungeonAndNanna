@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/personaggi/balordor/","dgPassFrontmatter":true}
 ---
 
-Nome: Balordor Fusco
+	Nome: Balordor Fusco
 Razza: Mezz’orco
 Classe: Guerriero Runico
 Città di origine: Sconosciuta
