@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/quest/esiliare-le-mezze-anime/"}
+{"dg-publish":true,"permalink":"/quest/esiliare-le-mezze-anime/","dgPassFrontmatter":true}
 ---
 
 Dobbiamo esiliare le nostre controparti malvagie per riunirci a loro e tornare nel [[Eventi & Info/Mondo 1\|Mondo 1]].
