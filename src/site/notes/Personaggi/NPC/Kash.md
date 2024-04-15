@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/npc/kash/"}
+{"dg-publish":true,"permalink":"/personaggi/npc/kash/","dgPassFrontmatter":true}
 ---
 
 **Nome:** Kash
