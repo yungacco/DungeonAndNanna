@@ -1,0 +1,5 @@
+---
+{"dg-publish":true,"permalink":"/session/session03/"}
+---
+
+Facciamo la conoscenza del demone "[[Personaggi/NPC/Fauno Il Demone\|Fauno Il Demone]]" che infesta la mente di uno dei nostri compagni ([[Personaggi/Alex\|Alex]]), dice di non ascoltare [[Personaggi/NPC/Fuoco di paglia\|Fuoco di paglia]] e di dirigerci ad una [[Città & Luoghi/Chiesa in rovina\|chiesa in rovina]]per ricevere altre indicazione. Decidiamo prima di andare alla [[Città & Luoghi/Reggia\|Reggia]] e riusciti ad attraversare il velo magico che ne impediva l'accesso, ci ritroviamo in una versione abbandonata della vila coperta da questo filtro di percezione, combattiamo a fatica le creature al suo interno finche un ragno meta umano gigante non ci costringe ad attraversare tutta la [[Città & Luoghi/Reggia\|Reggia]] e scappare. 
