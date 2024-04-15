@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/mezze-anime/krampus/"}
+{"dg-publish":true,"permalink":"/personaggi/mezze-anime/krampus/","dgPassFrontmatter":true}
 ---
 
 **Nome:** Krampus
