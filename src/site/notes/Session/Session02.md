@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session/session02/"}
+{"dg-publish":true,"permalink":"/session/session02/","dgPassFrontmatter":true}
 ---
 
 Partiti in viaggio facciamo presto anche noi la conoscenza dell'uomo misterioso che ci spiega vagamente che se il nostro intento era di tornare ai nostri corpi dovevamo ascoltarlo e dirigerci a "[[Città & Luoghi/Tauber City\|Tauber City]]".
