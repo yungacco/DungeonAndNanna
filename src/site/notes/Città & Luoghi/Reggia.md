@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citta-and-luoghi/reggia/"}
+{"dg-publish":true,"permalink":"/citta-and-luoghi/reggia/","dgPassFrontmatter":true}
 ---
 
 Reggia di [[Città & Luoghi/Tauber City\|Tauber City]], potenziale casa di [[Personaggi/Mezze Anime/Krampus\|Krampus]]
