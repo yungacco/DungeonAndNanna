@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/alex/"}
+{"dg-publish":true,"permalink":"/personaggi/alex/","dgPassFrontmatter":true}
 ---
 
 **Nome:** Alex
