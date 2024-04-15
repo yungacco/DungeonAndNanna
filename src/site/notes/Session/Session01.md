@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session/session01/"}
+{"dg-publish":true,"permalink":"/session/session01/","dgPassFrontmatter":true}
 ---
 
 Cadendo dal cielo senza memoria  io ([[Personaggi/Balordor\|Balordor]]) e altri 4 ([[Personaggi/Alex\|Alex]] [[Personaggi/Willy\|Willy]] [[Personaggi/Rob\|Rob]] [[Personaggi/Sardar\|Sardar]]) ci ritroviamo in mezzo al mare nel [[Eventi & Info/Mondo 2\|Mondo 2]] con un nave in avvicinamento. Presto incontriamo [[Personaggi/NPC/Kash\|Kash]] e [[Personaggi/X\|X]] che si sono appena conosciuti e [[Personaggi/X\|X]] ci racconta di come non apparteniamo a questo mondo ma al [[Eventi & Info/Mondo 1\|Mondo 1]] e che un uomo misterioso"[[Personaggi/NPC/Fuoco di paglia\|Fuoco di paglia]]" 10 anni prima gli abbia preannunciato la nostra comparsa dai cieli. Anche [[Personaggi/X\|X]] come noi è comparso in questo mondo 10 anni prima e guidato dalla profezia dell'uomo ha aspettato di incontrarci. [[Personaggi/NPC/Kash\|Kash]] invece, era un semplice mercenario, arruolato da [[X \|X ]] per qualche soldo.
