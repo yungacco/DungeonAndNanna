@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/npc/thily/"}
+{"dg-publish":true,"permalink":"/personaggi/npc/thily/","dgPassFrontmatter":true}
 ---
 
 Ci è apparso il suo ricordo in mente ma sappiamo ben poco.
