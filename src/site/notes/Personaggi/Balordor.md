@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/balordor/"}
+{"dg-publish":true,"permalink":"/personaggi/balordor/","dgPassFrontmatter":true}
 ---
 
 ![[Immagine WhatsApp 2024-02-06 ore 14.19.54_9091a403 1.jpg \|100]]
