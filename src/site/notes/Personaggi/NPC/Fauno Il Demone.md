@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/npc/fauno-il-demone/"}
+{"dg-publish":true,"permalink":"/personaggi/npc/fauno-il-demone/","dgPassFrontmatter":true}
 ---
 
 **Nome:** ????
