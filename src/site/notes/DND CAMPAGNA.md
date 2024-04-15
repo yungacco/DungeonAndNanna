@@ -7,7 +7,8 @@
 [[Session/Session02\|Session02]]
 [[Session/Session03\|Session03]]
 [[Session/Session04\|Session04]]
-
+[[Session/Session05 - I Preparativi\|Session05 - I Preparativi]]
+[[Session/Session06 - In mare! Thily! Teste giganti!\|Session06 - In mare! Thily! Teste giganti!]]
 # <b>PERSONAGGI</b>
  [[Personaggi/Balordor\|Balordor]]
 [[Personaggi/X\|X]]
@@ -19,6 +20,10 @@
 [[Personaggi/NPC/Fauno Il Demone\|Fauno Il Demone]]
 [[Personaggi/NPC/Fuoco di paglia\|Fuoco di paglia]]
 [[Personaggi/NPC/Kash\|Kash]]
+[[Personaggi/NPC/Teschio 1\|Teschio 1]]
+[[Personaggi/NPC/Thily\|Thily]]
 # <b>MEZZE ANIME</b>
 [[Personaggi/Mezze Anime/Xavan\|Xavan]]
 [[Personaggi/Mezze Anime/Krampus\|Krampus]]
+# <b>QUEST</b>
+[[Quest/Esiliare le mezze anime.\|Esiliare le mezze anime.]]
