@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/sardar/"}
+{"dg-publish":true,"permalink":"/personaggi/sardar/","dgPassFrontmatter":true}
 ---
 
 **Nome:** Sardar
