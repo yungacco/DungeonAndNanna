@@ -1,0 +1,6 @@
+---
+{"dg-publish":true,"permalink":"/session/session05-i-preparativi/"}
+---
+
+Giunti al porto dove la nave di [[Personaggi/X\|X]] ci attendeva, ci siamo divisi per cercare informazione sulla città in fondo al mare dove trovare l'artefatto. Sono andato alla taverna "[[Città & Luoghi/Marinaio Guercio\|Marinaio Guercio]]"
+ed ho ottenuto per qualche oro una mappa di 20 anni vecchia su dove fosse la città ([[Città & Luoghi/Mappe/Mappa 1\|Mappa 1]]), che qua chiamano "Buco profondo". Ho anche scoperto che la città si sposta sempre più a nord est nel fondale marino per qualche strano motivo. Dopo aver dormito abbiamo recuperato del cibo comprandolo dai vari mercantili e delle ancore per progettare insiemi a delle pelli che ho ordinato da un conciatore, ( che dovrebbe consegnarle in serata), delle bolle per scendere sotto acqua e respirare più a lungo. [[Personaggi/Sardar\|Sardar]] ha scoperto da un uomo pesce dentro una taverna un rituale che richiede il sacrificio di due pescatori casuali in mezzo al mare per attirare qualcuno o qualcosa che ci avrebbe poi condotto a [[Città & Luoghi/Buco profondo\|Buco profondo]] ma il gruppo si è rivelato contro a questa pratica.
