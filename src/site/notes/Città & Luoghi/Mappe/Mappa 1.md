@@ -3,7 +3,7 @@
 ---
 
 
-![Mappa1.png](/img/user/Mappa1.png)
+![Mappa1.png](/img/user/Image/Mappa1.png)
 
 
 
