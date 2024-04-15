@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/willy/"}
+{"dg-publish":true,"permalink":"/personaggi/willy/","dgPassFrontmatter":true}
 ---
 
 **Nome:** ???
