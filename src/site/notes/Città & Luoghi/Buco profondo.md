@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/citta-and-luoghi/buco-profondo/"}
+{"dg-publish":true,"permalink":"/citta-and-luoghi/buco-profondo/","dgPassFrontmatter":true}
 ---
 
 Citta in fondo all'oceano
