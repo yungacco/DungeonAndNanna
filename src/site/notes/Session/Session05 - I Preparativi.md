@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session/session05-i-preparativi/"}
+{"dg-publish":true,"permalink":"/session/session05-i-preparativi/","dgPassFrontmatter":true}
 ---
 
 Giunti al porto dove la nave di [[Personaggi/X\|X]] ci attendeva, ci siamo divisi per cercare informazione sulla città in fondo al mare dove trovare l'artefatto. Sono andato alla taverna "[[Città & Luoghi/Marinaio Guercio\|Marinaio Guercio]]"
