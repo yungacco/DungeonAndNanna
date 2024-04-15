@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/x/"}
+{"dg-publish":true,"permalink":"/personaggi/x/","dgPassFrontmatter":true}
 ---
 
 **Nome:** X Power
