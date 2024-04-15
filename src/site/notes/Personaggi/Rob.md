@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/personaggi/rob/"}
+{"dg-publish":true,"permalink":"/personaggi/rob/","dgPassFrontmatter":true}
 ---
 
 **Nome:** Rob Malley
