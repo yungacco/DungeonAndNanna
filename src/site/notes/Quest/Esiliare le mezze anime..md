@@ -14,3 +14,4 @@ Sconosciuta controparte di [[Personaggi/X\|X]]
 
 
 Update: Alla ricerca di un medaglione a [[Città & Luoghi/Buco profondo\|Buco profondo]] per esiliare [[Personaggi/Mezze Anime/Xavan\|Xavan]] finiamo sotto consiglio di [[Personaggi/NPC/Thily\|Thily]] nei sotterranei di [[Città & Luoghi/Oxgate\|Oxgate]]
+Update 2: Nei sotterranei abbiamo trovato la testa di un [[Personaggi/Colossale\|Colossale]]. All'interno un cubo nero che una volta distrutto ci ha permesso di imparare l'incantesimo [[Eventi & Info/Ros Row\|Ros Row]] per bandire le anime. Dobbiamo andare a [[Città & Luoghi/Buco profondo\|Buco profondo]] oppure a [[Città & Luoghi/Tauber City\|Tauber City]].
