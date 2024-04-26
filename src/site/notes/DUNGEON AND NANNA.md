@@ -9,6 +9,7 @@
 [[Session/Session04\|Session04]]
 [[Session/Session05 - I Preparativi\|Session05 - I Preparativi]]
 [[Session/Session06 - In mare! Thily! Teste giganti!\|Session06 - In mare! Thily! Teste giganti!]]
+[[Session/Session07 - Teste giganti,vermi & Incantesimi\|Session07 - Teste giganti,vermi & Incantesimi]]
 # <b>PERSONAGGI</b>
  [[Personaggi/Balordor\|Balordor]]
 [[Personaggi/X\|X]]
@@ -22,6 +23,7 @@
 [[Personaggi/NPC/Kash\|Kash]]
 [[Personaggi/NPC/Teschio 1\|Teschio 1]]
 [[Personaggi/NPC/Thily\|Thily]]
+
 # <b>MEZZE ANIME</b>
 [[Personaggi/Mezze Anime/Xavan\|Xavan]]
 [[Personaggi/Mezze Anime/Krampus\|Krampus]]
